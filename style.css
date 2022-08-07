@@ -1,0 +1,78 @@
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: #222222;
+
+  background: #ffffff url("18449077.jpg") no-repeat top center;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: normal;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: normal;
+  color:rgb(241, 233, 233);
+}
+
+a {
+  color: #486d83;
+  text-decoration: underline;
+}
+
+.avatar {
+  border-radius: 60%;
+}
+
+
+.blog-navigation {
+  margin-bottom: 30px;
+  padding: 60px;
+  background: #000 url(1614642596.jpg);
+  border: 5px solid #79859b;
+
+  color: #ece9e9;
+}
+
+.blog-navigation h2 {
+  margin-top: 0;
+}
+
+.blog-navigation ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.blog-navigation li {
+  margin-bottom: 5px;
+}
+
+.blog-navigation a {
+  color: #e9e0e0;
+}
+
+
+
+.skills-level {
+  background-color: #dad422;
+}
+
+.skills-level-two {
+  background-color: #da8c10;
+}
+
+.skills-level-three {
+  background-color: #4c72e2;
+}
+
+.skills-level-four {
+  background-color: #5be24c;
+}
+
+footer {
+  margin-top: 30px;
+}
